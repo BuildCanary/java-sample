@@ -1,3 +1,3 @@
 ## Java sample project
 
-[![Build Status](https://public1.visualstudio.com/_apis/public/build/definitions/5159d3de-2a96-42d2-8a05-8fd1220d8396/17/badge)](https://public1.visualstudio.com/dastahel/dastahel%20Team/_build/index?context=allDefinitions&path=%5C&definitionId=17)
+[![Build Status](https://buildcanary.visualstudio.com/_apis/public/build/definitions/635243c9-5195-487e-a130-ec41ae34e860/477/badge)](https://buildcanary.visualstudio.com/CanaryBuilds/_build/index?definitionId=477)
