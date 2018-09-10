@@ -1,1 +1,2 @@
 Build definition: %BUILD_BUILDNUMBER% !
+"Build definition: Trigger-Cheshire-CI-Tester_20180910.4 !" 
