@@ -1,3 +1,3 @@
-## Java sample project
+## Java sample project used for a canary testing
 
-[![Build Status](https://buildcanary.visualstudio.com/_apis/public/build/definitions/635243c9-5195-487e-a130-ec41ae34e860/477/badge)](https://buildcanary.visualstudio.com/CanaryBuilds/_build/index?definitionId=477)
+[![Build status](https://buildcanary.visualstudio.com/CanaryBuilds/_apis/build/status/Cheshire_BuildCanary_Maven)](https://buildcanary.visualstudio.com/CanaryBuilds/_build/latest?definitionId=477)
