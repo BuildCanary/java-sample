@@ -1,1 +1,2 @@
 "Build definition: Trigger-Cheshire-PR-Tester_20180919.2 !" 
+"Build definition: Trigger-Cheshire-CI-Tester_20180920.1 !" 
